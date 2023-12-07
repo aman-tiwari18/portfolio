@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fda67be8.css",
+    "main.js": "/portfolio/static/js/main.95b084eb.js",
+    "static/js/787.35dd0f9c.chunk.js": "/portfolio/static/js/787.35dd0f9c.chunk.js",
+    "static/media/socialMedia.png": "/portfolio/static/media/socialMedia.774dc67fc0baf582a5f6.png",
+    "static/media/git.png": "/portfolio/static/media/git.8fa70958960c0b9085e8.png",
+    "static/media/typingApp.png": "/portfolio/static/media/typingApp.dcccb053f98b534de167.png",
+    "static/media/profilePhoto.png": "/portfolio/static/media/profilePhoto.c5867007af795873bb0d.png",
+    "static/media/resumeAman.pdf": "/portfolio/static/media/resumeAman.055e1c90d4e776d9f12b.pdf",
+    "static/media/clogo.png": "/portfolio/static/media/clogo.2b2276395e116be80813.png",
+    "static/media/html.png": "/portfolio/static/media/html.f3aa7827cd5160f3fc1c.png",
+    "static/media/redux.png": "/portfolio/static/media/redux.5de70b7bc0d2556a0958.png",
+    "static/media/js.png": "/portfolio/static/media/js.166865dacb77d214f485.png",
+    "static/media/react.png": "/portfolio/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/nodeJs.png": "/portfolio/static/media/nodeJs.c6649cb118c1ede849ad.png",
+    "static/media/todoList.png": "/portfolio/static/media/todoList.e95b8c31e269157bb37b.png",
+    "static/media/css.png": "/portfolio/static/media/css.6402b604475346c0ff73.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.abb775ff62e99f0283ac.png",
+    "index.html": "/portfolio/index.html",
+    "main.fda67be8.css.map": "/portfolio/static/css/main.fda67be8.css.map",
+    "main.95b084eb.js.map": "/portfolio/static/js/main.95b084eb.js.map",
+    "787.35dd0f9c.chunk.js.map": "/portfolio/static/js/787.35dd0f9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda67be8.css",
+    "static/js/main.95b084eb.js"
+  ]
+}
