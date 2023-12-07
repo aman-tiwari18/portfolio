@@ -1,0 +1,47 @@
+#about {
+  width: 100vw;
+  margin: 0 auto;
+  max-width: 75rem;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#about p {
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  color: rgb(156, 155, 155);
+  padding-top: 1.5rem;
+}
+
+#about h1 {
+  border-bottom: 3px solid yellow;
+}
+
+@media screen and (max-width: 840px) {
+  .introContent {
+    font-size: 10vw;
+  }
+  .about p {
+    font-size: 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 70vw;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .introContent {
+    font-size: 10vw;
+  }
+  #about p {
+    font-size: 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 90vw;
+  }
+}
