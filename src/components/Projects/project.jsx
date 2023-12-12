@@ -1,6 +1,6 @@
 import React from "react";
 import "./project.css";
-import pro1 from "../../assets/todoList.png";
+import pro1 from "../../assets/pricewise.png";
 import pro2 from "../../assets/socialMedia.png";
 import pro3 from "../../assets/typingApp.png";
 
@@ -20,7 +20,7 @@ const Projects = () => {
             <div class="card" data-aos="fade-up">
               <div class="card_image">
                 <a
-                  href="https://github.com/aman-tiwari18/todo_list_frontend"
+                  href="https://pricewise-black.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -29,14 +29,14 @@ const Projects = () => {
               </div>
               <div className="btn-democode">
                 <a
-                  href="https://github.com/aman-tiwari18/todo_list_frontend"
+                  href="https://github.com/aman-tiwari18/pricewise"
                   target="_blank"
                   rel="noreferrer"
                 >
                   <AiFillGithub size={30} />
                 </a>
                 <a
-                  href="https://github.com/aman-tiwari18/todo_list_frontend"
+                  href="https://github.com/aman-tiwari18/pricewise"
                   target="_blank"
                   rel="noreferrer"
                   className=""
@@ -46,30 +46,30 @@ const Projects = () => {
               </div>
               <div class="card_content">
                 <a
-                  href="https://github.com/aman-tiwari18/todo_list_frontend"
+                  href="https://github.com/aman-tiwari18/pricewise"
                   target="_blank"
                   rel="noreferrer"
                 >
                   {" "}
-                  <h2 class="card_title">Todo Lists</h2>
+                  <h2 class="card_title">PriceWise</h2>
                 </a>
                 <div class="card_text">
                   <p>
                     {" "}
-                    Developed a Django and react based project. In this app, a
-                    user can register, log in, and create multiple lists. and in
-                    a list, a user can create multiple tasks and can do CRUD
-                    operations.
+                    Developed a nextjs app. In this project I have implemented
+                    the functionality for scraping the data of Amazon products
+                    from the site after that we can track the product’s price
+                    and get the notification via Hotmail.
                   </p>
                   <hr />
                   <p>
                     {" "}
-                    Utilized <strong>Redux</strong>, <strong>Django</strong>,
-                    and <strong>React.Js</strong> JavaScript library for the
-                    frontend implementation.
+                    In this project, I have used <strong>NextJs</strong> library
+                    using <strong>Tailwind CSS</strong> and{" "}
+                    <strong>Mongodb</strong> for the database.
                     <br />
-                    Implemented API fetching with axios to retrieve data from
-                    backend.
+                    Implemented mail service using Hotmail and BrightData to the
+                    scrape data from the Amazon site.
                   </p>
                 </div>
               </div>
